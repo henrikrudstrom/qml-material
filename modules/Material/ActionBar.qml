@@ -40,7 +40,7 @@ Item {
     id: actionBar
 
     implicitHeight: Units.gu(1)
-
+    height: implicitHeight
     anchors {
         left: parent.left
         right: parent.right
